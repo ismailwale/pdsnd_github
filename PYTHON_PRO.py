@@ -15,7 +15,7 @@ def get_city():
     '''
     print('\n\nI only have data for these three cities: Chicago or c, New York or n, and Washington or w\n\n')
     city = input('Please enter the city you would like to analyze the data for\n   :').upper()
-    # HINT: I Use a while loop to handle invalid inputs
+    # HINT: I Use a while loop to handle invalid inputs for easy code reading
     while True:
             if city == 'CHICAGO' or city == 'C':
                 print("\nThat\'s fine! let\'s explore Chicago data together.\n\n")
