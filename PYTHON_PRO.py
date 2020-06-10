@@ -7,7 +7,7 @@ CITY_DATA = {
     'new york city':'new_york_city.csv',
     'washington':'washington.csv'}
 
-print('\n\n#Hello, I am Ismail. Please let us explore the bikeshare data.')
+print('\n\#Hello, I am **Ismail**. Please let us explore the **bikeshare** data.')
 def get_city():
     '''
     This function gets the name of the city
