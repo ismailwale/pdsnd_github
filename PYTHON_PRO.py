@@ -10,8 +10,8 @@ CITY_DATA = {
 print('\n\#Hello, I am **Ismail**. Please let us explore the **bikeshare** data.')
 def get_city():
     '''
-    This function gets the name of the city
-    to be anlyzed
+    *This function gets the name of the city
+    to be anlyzed*
     '''
     print('\n\nI only have data for these three cities: Chicago or c, New York or n, and Washington or w\n\n')
     city = input('Please enter the city you would like to analyze the data for\n   :').upper()
