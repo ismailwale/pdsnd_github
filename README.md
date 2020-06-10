@@ -13,4 +13,4 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-UDACITY COURSE
+UDACITY 2020
